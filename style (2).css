@@ -1,0 +1,72 @@
+body, html {
+
+  width: 100%;
+  height: 100% ;
+  font-family: "Robot serif";
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+
+h1{
+
+font-size: 3rem;
+color: white;
+text-align: center;  
+}
+
+hr.boton{
+
+    margin: 40px auto;
+    color: orange;
+    border: 1px solid #f0e9e7;
+    max-width: 120px;
+    opacity: 1;  
+}
+
+.buffer{
+
+height: 10rem;
+
+}
+
+.btn{
+
+  font-weight: 90;
+  border-radius: 90px;
+  text-transform: uppercase;
+
+}
+
+
+.btn-secondary{
+
+  background-color :blue;
+  border-color: blue;
+  border-width: 4px;
+
+}
+
+
+
+.btn-secondary:hover {
+  background-color: orange;
+  border-color: orange;
+}
+
+
+
+
+.btn-xl{
+
+padding: 1rem 1rem;
+}
+
+
+
+
+
